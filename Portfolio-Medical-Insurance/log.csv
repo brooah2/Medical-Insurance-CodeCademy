@@ -1,0 +1,16 @@
+date,fields,results
+2024-01-31,age,['The average age in this data set of 1338 entries is 39.21.']
+2024-01-31,sex,"['The total number of people whose sex value is female in this data set of 1338 entries is 662, or 0.49%.', 'The total number of people whose sex value is male in this data set of 1338 entries is 676, or 0.51%.']"
+2024-01-31,region,"['The total number of people whose region value is southwest in this data set of 1338 entries is 325, or 0.24%.', 'The total number of people whose region value is southeast in this data set of 1338 entries is 364, or 0.27%.', 'The total number of people whose region value is northwest in this data set of 1338 entries is 325, or 0.24%.', 'The total number of people whose region value is northeast in this data set of 1338 entries is 324, or 0.24%.']"
+2024-01-31,age,"{'field': 'age', 'value': None, 'total': 52459, 'count': 1338, 'average': 39.21}"
+2024-01-31,age,"{'field': 'age', 'value': None, 'total': 52459, 'count': 1338, 'average': 39.21}"
+2024-01-31,age,"{'field': 'age', 'value': None, 'total': 52459, 'count': 1338, 'average': 39.21}"
+2024-01-31,age,"{'field': 'age', 'value': None, 'total': 52459, 'count': 1338, 'average': 39.21}"
+2024-01-31,charges,"{'field': 'charges', 'value': None, 'total': 17755824.990759, 'count': 1338, 'average': 13270.42}"
+2024-01-31,"['age', 'charges']","[['age', 'charges', {'0:1': 0.002954467056715316, '1:0': 338.47051965838085}]]"
+2024-01-31,age,"{'field': 'age', 'value': None, 'total': 52459, 'count': 1338, 'average': 39.21}"
+2024-01-31,children,"{'field': 'children', 'value': None, 'total': 1465, 'count': 1338, 'average': 1.09}"
+2024-01-31,"['age', 'children']","[['age', 'children', {'0:1': 35.808191126279866, '1:0': 0.02792657122705351}]]"
+2024-01-31,age,"{'field': 'age', 'value': None, 'total': 52459, 'count': 1338, 'average': 39.21}"
+2024-01-31,bmi,"{'field': 'bmi', 'value': None, 'total': 41027.624999999985, 'count': 1338, 'average': 30.66}"
+2024-01-31,"['age', 'bmi']","[['age', 'bmi', {'0:1': 1.2786262914316882, '1:0': 0.7820893459654203}]]"
